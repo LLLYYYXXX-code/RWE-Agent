@@ -32,17 +32,17 @@
 
 **结果**：系统自动完成取数、分析与报告，结论与医学金标准方向一致，并在分析流程中处理了适应证混杂（confounding by indication）问题。
 
-
+![Plots in reports](<./Images/Plots in reports.png>)
 
 
 ## 项目结构
 
 ```
 RWE-Agent/
-├── skills/                   # 9 个原子化 Skill
+├── Skills/                   # 9 个原子化 Skill
 ├── System Prompt.md          # 系统提示词与角色配置
-├── MIMIC Data Distionary     # MIMIC-IV 字典
-└── MIMIC Table Atructure     # MIMIC-IV 表结构说明
+├── MIMIC Data Distionary/     # MIMIC-IV 字典
+└── MIMIC Table Atructure/     # MIMIC-IV 表结构说明
 ```
 ![RWE Agent Worklflow](<./Images/RWE Agent Workflow.png>)
 
