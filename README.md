@@ -44,6 +44,7 @@ RWE-Agent/
 ├── MIMIC Data Distionary     # MIMIC-IV 字典
 └── MIMIC Table Atructure     # MIMIC-IV 表结构说明
 ```
+![RWE Agent Worklflow](<./Images/RWE Agent Workflow.png>)
 
 ## 已知局限与后续计划
 
@@ -55,4 +56,4 @@ RWE-Agent/
 
 MIT © 2026 李宇星
 
-![RWE Agent Worklflow](<./Images/RWE Agent Workflow.png>)
+
